@@ -4,6 +4,10 @@ apt-get install openssl
 # генерируем ключ 
 ![image](https://github.com/razuwaikin/showcase-of-ssl/assets/79261812/07e50593-2449-4b7d-9237-05ad54894b53)
 
+# создаем свой мини сайт
+![image](https://github.com/razuwaikin/showcase-of-ssl/assets/79261812/21f58e24-5dc3-44ae-8923-34bbf951e4b6)
+
+
 # устанавливаю уязвимость в конфиге браузера firefox
 ![image](https://github.com/razuwaikin/showcase-of-ssl/assets/79261812/64956cb1-ffe1-43bc-a49d-1dd40c78476d)
 
